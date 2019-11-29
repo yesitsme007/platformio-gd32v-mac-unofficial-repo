@@ -15,7 +15,7 @@
       "version": "0.1.1"
     }
   ],
-  "toolchain-gd32v-mac": [
+  "toolchain-riscv-mac": [
     {
       "sha1": "ffac23fac357286ddeb50c0b3186fd48b0e09802", 
       "system": "darwin_x86_64", 
