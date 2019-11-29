@@ -1,5 +1,5 @@
 {
-  "tool-gd32vflash": [
+  "tool-gd32vflash-mac": [
     {
       "sha1": "f2595071f0ea6f879cf116411438f0c412aae1c0", 
       "system": "darwin_x86_64", 
@@ -7,7 +7,7 @@
       "version": "0.1.0"
     }
   ],
-  "tool-openocd-gd32v": [
+  "tool-openocd-gd32v-mac": [
     {
       "sha1": "5c0d5fd62349b1867dcded9728305eb0f4fb1917", 
       "system": "darwin_x86_64", 
@@ -15,7 +15,7 @@
       "version": "0.1.1"
     }
   ],
-  "toolchain-gd32v": [
+  "toolchain-gd32v-mac": [
     {
       "sha1": "ffac23fac357286ddeb50c0b3186fd48b0e09802", 
       "system": "darwin_x86_64", 
