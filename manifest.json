@@ -3,7 +3,7 @@
     {
       "sha1": "38e626c46471fe1e2631224143b360c0a1fc51b2", 
       "system": "darwin_x86_64", 
-      "url": "file:///Users/d058463/temp/gd32v-mac-tools/tool-gd32vflash-darwin_x86_64-0.1.0-unofficial.tar.gz", 
+      "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/tool-gd32vflash-darwin_x86_64-0.1.0-unofficial.tar.gz", 
       "version": "0.1.0"
     }
   ],
@@ -11,7 +11,7 @@
     {
       "sha1": "e98c296697038c9d0dfaf79449492edb60529435", 
       "system": "darwin_x86_64", 
-      "url": "file:///Users/d058463/temp/gd32v-mac-tools/tool-openocd-riscv-darwin_x86_64-0.9.20191123-unofficial.tar.gz", 
+      "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/tool-openocd-riscv-darwin_x86_64-0.9.20191123-unofficial.tar.gz", 
       "version": "0.1.1"
     }
   ],
@@ -19,22 +19,7 @@
     {
       "sha1": "1cb4e81294265e4c3cbce9663f569db47eb724b5", 
       "system": "darwin_x86_64", 
-      "url": "file:///Users/d058463/temp/gd32v-mac-tools/toolchain-gd32v-darwin_x86_64-9.2.0-unofficial.tar.gz",
-      "version": "9.2.0"
-    },
-    {
-      "sha1": "a0012f8cb070b18b2b0077b081532ac0057519d9", 
-      "system": "linux_x86_64", 
-      "url": "https://dl.bintray.com/platformio/dl-packages/toolchain-gd32v-linux_x86_64-9.2.0.tar.gz", 
-      "version": "9.2.0"
-    }, 
-    {
-      "sha1": "1b62ac75f4b85fad8bc224c87e07103a76c708c0", 
-      "system": [
-        "windows_x86", 
-        "windows_amd64"
-      ], 
-      "url": "https://dl.bintray.com/platformio/dl-packages/toolchain-gd32v-windows_x86-9.2.0.tar.gz", 
+      "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/toolchain-gd32v-darwin_x86_64-9.2.0-unofficial.tar.gz",
       "version": "9.2.0"
     }
   ] 
