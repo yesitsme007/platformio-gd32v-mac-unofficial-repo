@@ -15,8 +15,7 @@
       "version": "0.1.1"
     }
   ],
-  "toolchain-gd32v-macv
-": [
+  "toolchain-gd32v-mac": [
     {
       "sha1": "e9cead8e01bed7e57f924fd0e725cc6a2efbd4bb", 
       "system": "darwin_x86_64", 
