@@ -1,7 +1,7 @@
 {
   "tool-gd32vflash-mac": [
     {
-      "sha1": "8a2da73a27279bf3934ca31cbf76c95628418798", 
+      "sha1": "e77a69e633c134ef52ac7df1900bb6ee90a97af5", 
       "system": "darwin_x86_64", 
       "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/tool-gd32vflash-darwin_x86_64-0.1.0-unofficial.tar.gz", 
       "version": "0.1.0"
@@ -9,15 +9,16 @@
   ],
   "tool-openocd-gd32v-mac": [
     {
-      "sha1": "2f61eed5934924960c56f9e1701d615ea2c437a5", 
+      "sha1": "c7dab4f76b31878e2fc3cef4727adb84f406a08a", 
       "system": "darwin_x86_64", 
       "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/tool-openocd-riscv-darwin_x86_64-0.9.20191123-unofficial.tar.gz", 
       "version": "0.1.1"
     }
   ],
-  "toolchain-riscv-mac": [
+  "toolchain-gd32v-macv
+": [
     {
-      "sha1": "ffac23fac357286ddeb50c0b3186fd48b0e09802", 
+      "sha1": "e9cead8e01bed7e57f924fd0e725cc6a2efbd4bb", 
       "system": "darwin_x86_64", 
       "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/toolchain-gd32v-darwin_x86_64-9.2.0-unofficial.tar.gz", 
       "version": "9.2.0"
