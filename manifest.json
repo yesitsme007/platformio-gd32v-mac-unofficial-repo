@@ -19,7 +19,7 @@
     {
       "sha1": "a4e1d24fe23e9bf1f96ba2f2ea347a60c474bc30", 
       "system": "darwin_x86_64", 
-      "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/toolchain-gd32v-darwin_x86_64-9.2.0-unofficial.tar.gz", 
+      "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin.tar.gz", 
       "version": "9.2.0"
     }
   ]
