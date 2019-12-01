@@ -19,7 +19,7 @@ else
     curl https://static.dev.sifive.com/dev-tools/${GCC_ARCHIVE} --output "${GCC_DOWNLOAD_DIR}/${GCC_ARCHIVE}"
 fi
 tar -x --cd ${GCC_DOWNLOAD_DIR} -f "${GCC_DOWNLOAD_DIR}/${GCC_ARCHIVE}"
-cp toolchain-riscv-mac/package.json ${GCC_DOWNLOAD_DIR}/${GCC_EXTRACT_DIR}
+cp toolchain-gd32v-mac/package.json ${GCC_DOWNLOAD_DIR}/${GCC_EXTRACT_DIR}
 tar -czvf ${GCC_ARCHIVE} --cd ${GCC_DOWNLOAD_DIR}/${GCC_EXTRACT_DIR} .
 #cleanup extracted files
 rm -r ${GCC_DOWNLOAD_DIR}/${GCC_EXTRACT_DIR}
