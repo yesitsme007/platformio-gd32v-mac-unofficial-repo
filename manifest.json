@@ -1,7 +1,7 @@
 {
   "tool-gd32vflash-mac": [
     {
-      "sha1": "8e7e137ae0a9b86380db280c6e4c3556abe3bfb3", 
+      "sha1": "8f5b254c12c1acb0a449ad878731319417f385c0", 
       "system": "darwin_x86_64", 
       "url": "https://github.com/yesitsme007/test1/releases/download/0.0.1/tool-gd32vflash-darwin_x86_64-0.1.0-unofficial.tar.gz", 
       "version": "0.1.0"
