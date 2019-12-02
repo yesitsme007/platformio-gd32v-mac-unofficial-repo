@@ -1,0 +1,4 @@
+*.tar.gz
+riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin
+tool-gd32vflash-darwin_x86_64-0.1.0-unofficial
+toolchain-gd32v-darwin_x86_64-9.2.0-unofficial

@@ -1,0 +1,9 @@
+{
+    "description": "RISC-V GCC toolchain unoffical Mac Port",
+    "name": "toolchain-gd32v-mac",
+    "system": [
+        "darwin_x86_64"
+    ],
+    "url": "https://www.sifive.com/products/tools/",
+    "version": "9.2.0"
+}

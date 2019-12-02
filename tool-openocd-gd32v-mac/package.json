@@ -1,0 +1,7 @@
+{
+  "description": "OpenOCD branch for GD32V Unoffical Mac Port",
+  "name": "tool-openocd-gd32v-mac",
+  "system": "darwin_x86_64",
+  "url": "https://github.com/...",
+  "version": "0.1.1"
+}

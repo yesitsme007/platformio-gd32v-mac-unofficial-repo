@@ -1,0 +1,7 @@
+{
+    "description": "GD32V FLASH TOOLS Unofficial Mac Port",
+    "name": "tool-gd32vflash-mac",
+    "system": "darwin_x86_64",
+    "url": "https://github.com/riscv-mcu/gd32-dfu-utils",
+    "version": "0.1.0"
+}
